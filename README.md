@@ -1,2 +1,2 @@
 # SoftwareTestingIntro
-Learning to test code with JUnit and JaCoCo
+Learning to test code with JUnit and JaCoCo in Netbeans
